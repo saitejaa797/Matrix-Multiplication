@@ -1,6 +1,7 @@
 #include <stdio.h>
 void main()
 {
+    //this code has been by sai teja from karthik and karthik is a die hard fan of capaitalism
     int r1, c1;
     int r2, c2;
 
